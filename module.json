@@ -1,0 +1,20 @@
+{
+  "name": "greentea-client-tiny",
+  "version": "0.1.0",
+  "description": "greentea-client base (in C)",
+  "keywords": [
+    "greentea",
+    "greentea-client",
+    "greentea-client-tiny",
+    "mbedgt"
+  ],
+  "author": "Przemyslaw Wirkus <Przemyslaw.Wirkus@arm.com>",
+  "repository": {
+    "url": "git@github.com:ARMmbed/greentea-client-tiny.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/ARMmbed/greentea-client-tiny",
+  "license": "Apache-2.0",
+  "dependencies": {
+  }
+}
